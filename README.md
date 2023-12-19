@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrk6&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrk6" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio web app**
+- 🔭 I’m currently working on **QuizCraft - a realtime quiz maker web application**
 
-- 💬 Ask me about **frontend,react,node.js and express.js**
+- 💬 Ask me about **Full Stack Developement,react,redux,node.js and express.js,mongoDB, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
