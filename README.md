@@ -1,4 +1,4 @@
-![logo](https://images6.alphacoders.com/480/480421.jpg)
+![logo]([https://images6.alphacoders.com/480/480421.jpg](https://ibb.co/tQQmHFM))
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">Problem Solving and Developing Enthusiast</h3>
 <img align="right" alt="Coding" width="290" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1695859200&v=beta&t=HVkJKondyIoGSFbj0-kkTGuhpKCKE1xDroJYgLqU98Y">
