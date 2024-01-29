@@ -1,7 +1,7 @@
 ![logo](https://i.postimg.cc/nVRcRX5W/Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">Problem Solving and Developing Enthusiast</h3>
-<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrk6&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrk6" /> </p>
 
