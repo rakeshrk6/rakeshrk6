@@ -1,7 +1,7 @@
 ![logo](https://i.postimg.cc/nVRcRX5W/Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">Problem Solving and Developing Enthusiast</h3>
-<img align="right" alt="Coding" width="290" src="https://camo.githubusercontent.com/2fbae42dc2d0a3c46d5bdb13e5158efaeb7a1e4347e26b3f2d5400575de833e9/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966">
+[<img align="right" alt="Coding" width="290" src="https://camo.githubusercontent.com/2fbae42dc2d0a3c46d5bdb13e5158efaeb7a1e4347e26b3f2d5400575de833e9/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966">](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrk6&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrk6" /> </p>
 
